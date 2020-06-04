@@ -1,24 +1,36 @@
-# README
+# Music API
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
 
-Things you may want to cover:
 
-* Ruby version
+#### By Reid Ashwill
 
-* System dependencies
+## Description
 
-* Configuration
+Project for epicodus to practice making API calls in Ruby
 
-* Database creation
 
-* Database initialization
+## Setup/Installation Requirements
 
-* How to run the test suite
+* _Navigate to https://github.com/reidashwill/week_11_project_
+* _clone the respository to your local machine_
+* _navigate to the cloned directory and open in your text editor of choice to view code_
+* _run the command 'bundle install' to install all gems used in this project_
+* _run the command 'rspec' to run the suite of tests included_
+* _run the rommand "rails s" to start a local rails server_
+* _navigate your browser of choice to localhost:3000_
 
-* Services (job queues, cache servers, search engines, etc.)
 
-* Deployment instructions
+## Technologies Used
 
-* ...
+* _Ruby_
+* _Rails_
+* _Rspec_
+* _Capybara_
+* _HTML (erb)_
+* _Bootstrap_
+
+### License
+
+*Licensed under the MIT license*
+
+Copyright (c) 2020 **_Reid Ashwill_**
